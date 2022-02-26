@@ -1,2 +1,2 @@
 # citysidelax
-CDN Files for CitySide Lacrosse
+CDN files for CitySide Lacrosse
